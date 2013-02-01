@@ -1,6 +1,8 @@
 Puppet dotfiles
 ===============
 
+Version: 1.0.0
+
 Copies my dotfiles to the $HOME of the current user
 
 Parameters
